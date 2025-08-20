@@ -1,0 +1,19 @@
+# Python environments
+venv/
+new_env/
+desed_env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML / large files
+*.pkl
+*.h5
+*.gz
+*.dll
+
+
+# API folder
+
